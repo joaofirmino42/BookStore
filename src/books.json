@@ -1,0 +1,48 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "title": "The Catcher in the Rye",
+            "description": "The Catcher in the Rye, novel by J.D. Salinger published in 1951. The novel details two days in the life of 16-year-old Holden Caulfield after he has been expelled from prep school. Confused and disillusioned, Holden searches for truth and rails against the “phoniness” of the adult world.",
+            "price": 16.99,
+            "rating": 4.8,
+            "brand": "drama",
+            "image": [
+                "https://firstamendment.mtsu.edu/wp-content/uploads/sites/2/2023/06/Rye_catcher_0.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "1984",
+            "description": "It tells the story of Winston Smith, a citizen of the miserable society of Oceania, who is trying to rebel against the Party and its omnipresent symbol, Big Brother. Winston works for the Ministry of Truth altering the history of Oceania to fit the government's current narrative",
+            "price": 20.00,
+            "rating": 7.8,
+            "genres": "science fiction",
+            "image": [
+                "https://cdn.kobo.com/book-images/c9472126-7f96-402d-ba57-5ba4c0f4b238/353/569/90/False/nineteen-eighty-four-1984-george.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "The Secret Adversary",
+            "description": "Childhood friends Tommy Beresford and Prudence Tuppence Cowley meet and agree to start their own business as The Young Adventurers. They are hired for a job that leads them both to many dangerous situations, meeting allies as well, including an American millionaire in search of his cousin.",
+            "price": 30.00,
+            "rating": 5.8,
+            "genres": "Crime",
+            "image": [
+                "https://m.media-amazon.com/images/I/61ruWnm+3+L._AC_UF1000,1000_QL80_.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "the alchemist",
+            "description": "",
+            "price": 25.00,
+            "rating": 4.8,
+            "genres": "An Andalusian shepherd boy named Santiago travels from his homeland in Spain to the Egyptian desert in search of a treasure buried in the Pyramids. He is both a simple sheep herder and an ambitious explorer. He follows his dreams, literally, a well as “signs” from his environment.",
+            "image": [
+                "https://i1.sndcdn.com/artworks-7F1Gqhi8ykkz7Kp5-3LfE8Q-t500x500.jpg"
+            ]
+        }
+    ]
+}
