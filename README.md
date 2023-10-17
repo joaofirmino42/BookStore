@@ -1,5 +1,5 @@
-# React Project Library
-This is a library system, where users can rent books
+# React Project BookStore
+This is a BookStore system, where users can buy books
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
